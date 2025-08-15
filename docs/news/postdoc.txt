@@ -1,0 +1,43 @@
+# 📢 Open Postdoctoral Position: AI-Guided Theorem Proving in Higher-Order Logic and Algebraic Domains
+
+We are excited to announce one fully funded postdoctoral research position as part of our newly accepted project on AI-driven automated reasoning for higher-order logic and algebraic theories. The project builds on recent breakthroughs such as Enigma, Deepire, and Monte Carlo proof search, and aims to develop autonomous reasoning systems that combine symbolic and statistical guidance, applied to open research-level problems in algebraic domains (e.g., loop theory, AIM Conjecture) and large-theory interactive theorem proving.
+
+Key research directions include:
+
++   Learning-based guidance in higher-order and dependently typed calculi
++   Integration of neural and symbolic methods
++   Theory exploration over hierarchies of algebraic theories
++   Collaboration with experts and evaluation on real-world conjectures
++   Development of tools for analyzing and visualizing automated proof processes
+
+
+We are looking for candidates with:
+
++   A PhD in computer science, mathematics, or related field
++   Strong background in automated reasoning, machine learning, or formal methods
++   Experience with automated reasoning tools (e.g., E, Vampire, Prover9, Coq, Isabelle, Lean)
++   Solid programming skills and a strong research track record
+
+The position offers an excellent opportunity to work at the intersection of AI and formalized mathematics, in collaboration with leading researchers and communities in automated and interactive theorem proving.
+
+📍 The position is based at Czech 🇨🇿 Institute of Informatics, Robotics and Cybernetics (CIIRC) at Czech Technical University in Prague (CTU), with starting date in Winter 2025/26.
+
+🕒 Duration: The position is full-time and funded for 2 years
+
+💰 Gross monthly salary: ~75,000 CZK (~3,000 EUR), including full benefits and support for travel and collaboration.
+
+📝 To apply, please send your CV, publication list, a brief statement of research interests, and one reference letter to [Your Contact Email] with the subject line: Postdoc Application – DEEPER.
+
+Applications will be reviewed on a rolling basis until the position is filled.
+
+
+
+
+
+🚨 We're hiring a postdoc in Prague 🇨🇿 to work on AI + theorem proving, combining symbolic and neural methods for higher-order logic & algebraic reasoning.
+🧠 Formal methods + Symbolic reasoning + Neural guidance + Theorem proving
+📍 CTU CIIRC | 🕒 2 years | 💰 ~75k CZK/month
+📆 Start: Winter 2024/25
+📧 Apply: CV + 1 reference letter → [Email]
+🔗 More details: [Link]
+#AI #Postdoc #TheoremProving #NeuroSymbolic #FormalMethods
