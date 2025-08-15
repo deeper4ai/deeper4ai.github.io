@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Deeper4AI</title>
-    <link>https://deeper4ai.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Deeper4AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Aug 2025 21:37:20 +0200</lastBuildDate>
-    <atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FormalMethods</title>
-      <link>https://deeper4ai.github.io/tags/formalmethods/</link>
+      <link>http://localhost:1313/tags/formalmethods/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/tags/formalmethods/</guid>
+      <guid>http://localhost:1313/tags/formalmethods/</guid>
       <description></description>
     </item>
     <item>
       <title>NeuroSymbolic</title>
-      <link>https://deeper4ai.github.io/tags/neurosymbolic/</link>
+      <link>http://localhost:1313/tags/neurosymbolic/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/tags/neurosymbolic/</guid>
+      <guid>http://localhost:1313/tags/neurosymbolic/</guid>
       <description></description>
     </item>
     <item>
       <title>Postdoc</title>
-      <link>https://deeper4ai.github.io/tags/postdoc/</link>
+      <link>http://localhost:1313/tags/postdoc/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/tags/postdoc/</guid>
+      <guid>http://localhost:1313/tags/postdoc/</guid>
       <description></description>
     </item>
     <item>
       <title>TheoremProving</title>
-      <link>https://deeper4ai.github.io/tags/theoremproving/</link>
+      <link>http://localhost:1313/tags/theoremproving/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
+      <guid>http://localhost:1313/tags/theoremproving/</guid>
       <description></description>
     </item>
   </channel>
