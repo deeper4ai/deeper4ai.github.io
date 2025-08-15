@@ -1,0 +1,46 @@
+baseURL = 'https://deeper4ai.github.io'
+languageCode = 'en-us'
+title = 'Deeper4AI'
+theme = 'beautifulhugo'
+
+[params]
+  # Optional: Add a description
+  description = "Deeper AI for Theorem Provers"
+  # Optional: Add featured image for homepage
+  recent_posts_number = 3
+  subtitle = "Deeper AI for Theorem Provers"
+  # logo = "images/deeper4ai.png"  # Optional logo
+  # favicon = "img/favicon.ico"   # Optional favicon
+
+# Define your menu structure
+[menu]
+  [[menu.main]]
+    identifier = "project"
+    name = "Project"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    url = "/team/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+    
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = "/products/"
+    weight = 5
+    
