@@ -12,6 +12,9 @@ theme = 'beautifulhugo'
   # logo = "images/deeper4ai.png"  # Optional logo
   # favicon = "img/favicon.ico"   # Optional favicon
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 # Define your menu structure
 [menu]
   [[menu.main]]

@@ -32,7 +32,7 @@ The position offers an excellent opportunity to work at the intersection of AI a
 
 💰 Gross monthly salary: ~75,000 CZK (~3,000 EUR), including full benefits and support for travel and collaboration.
 
-📝 To apply, please send your CV, publication list, a brief statement of research interests, and one reference letter to [Your Contact Email] with the subject line: Postdoc Application – DEEPER.
+📝 To apply, please send your CV, publication list, a brief statement of research interests, and one reference letter to [Martin Suda](mailto:martin.suda@cvut.cz) and to [Jan Jakubův](mailto:jan.jakubuv@cvut.cz) with the subject line: Postdoc Application – DEEPER.
 
 Applications will be reviewed on a rolling basis until the position is filled.
 
