@@ -1,9 +1,7 @@
 ---
 title: "Welcome to the Deeper 4 AI Project"
-description: "Deeper AI for Theorem Provers"
+description: "Project DEEPER"
 ---
-
-### Project _DEEPER_:
 
 #### Deep Exploratory Engine for Precise Expert Reasoning
 

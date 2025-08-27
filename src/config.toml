@@ -8,7 +8,7 @@ theme = 'beautifulhugo'
   description = "Deeper AI for Theorem Provers"
   # Optional: Add featured image for homepage
   recent_posts_number = 3
-  subtitle = "Deeper AI for Theorem Provers"
+  subtitle = "Project DEEPER"
   # logo = "images/deeper4ai.png"  # Optional logo
   # favicon = "img/favicon.ico"   # Optional favicon
 
