@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the Deeper 4 AI Project on Deeper4AI</title>
-    <link>https://deeper4ai.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to the Deeper 4 AI Project on Deeper4AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:56:08 +0200</lastBuildDate>
-    <atom:link href="https://deeper4ai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2025 21:37:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Team Members</title>
-      <link>https://deeper4ai.github.io/news/new-team-members/</link>
-      <pubDate>Mon, 20 Apr 2026 12:56:08 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/news/new-team-members/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>📢 Open Postdoctoral position in Prague</title>
-      <link>https://deeper4ai.github.io/news/postdoc-prague/</link>
+      <title>📢 Open Postdoctoral position in Prague [CLOSED]</title>
+      <link>http://localhost:1313/news/postdoc-prague/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/news/postdoc-prague/</guid>
+      <guid>http://localhost:1313/news/postdoc-prague/</guid>
       <description>&lt;p&gt;We are excited to announce one fully funded postdoctoral research position as part of our newly accepted project on AI-driven automated reasoning for higher-order logic and algebraic theories. The project builds on recent breakthroughs such as Enigma, Deepire, and Monte Carlo proof search, and aims to develop autonomous reasoning systems that combine symbolic and statistical guidance, applied to open research-level problems in algebraic domains (e.g., loop theory, AIM Conjecture) and large-theory interactive theorem proving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Team</title>
-      <link>https://deeper4ai.github.io/team/</link>
+      <link>http://localhost:1313/team/</link>
       <pubDate>Fri, 15 Aug 2025 21:37:04 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/team/</guid>
-      <description>&lt;div style=&#34;width:100%; display:flex; align-items:center; justify-content:center;&#34;&gt;&#xA;  &lt;div style=&#34;display:flex; align-items:center; justify-content:center; flex-wrap:wrap;&#34;&gt;&#xA;     &lt;img src=&#34;https://deeper4ai.github.io/images/logo-uom.png&#34; alt=&#34;UoM&#34; style=&#34;width:15%;&#34; /&gt;&#xA;     &lt;img src=&#34;https://deeper4ai.github.io/images/logo-ctu.svg&#34; alt=&#34;CTU&#34; style=&#34;width:15%;&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 id=&#34;-university-of-melbourne-&#34;&gt;@ University of Melbourne 🇦🇺&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ckaliszyk.github.io/&#34;&gt;Prof. Cezary Kaliszyk&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-czech-technical-university-in-prague-&#34;&gt;@ Czech Technical University in Prague 🇨🇿&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~sudamar2/&#34;&gt;Dr. Martin Suda&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~jakubja5/&#34;&gt;Dr. Jan Jakubův&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://usermap.cvut.cz/profile/1d88ef8a-5f02-4efb-964c-7a10a4ee4500&#34;&gt;MSc. Keneni W. Tesema&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;div style=&#34;width:100%; display:flex; align-items:center; justify-content:center;&#34;&gt;&#xA;  &lt;div style=&#34;display:flex; align-items:center; justify-content:center; flex-wrap:wrap;&#34;&gt;&#xA;     &lt;img src=&#34;http://localhost:1313/images/logo-uom.png&#34; alt=&#34;UoM&#34; style=&#34;width:15%;&#34; /&gt;&#xA;     &lt;img src=&#34;http://localhost:1313/images/logo-ctu.svg&#34; alt=&#34;CTU&#34; style=&#34;width:15%;&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 id=&#34;-university-of-melbourne-&#34;&gt;@ University of Melbourne 🇦🇺&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ckaliszyk.github.io/&#34;&gt;Prof. Cezary Kaliszyk&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-czech-technical-university-in-prague-&#34;&gt;@ Czech Technical University in Prague 🇨🇿&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~sudamar2/&#34;&gt;Dr. Martin Suda&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~jakubja5/&#34;&gt;Dr. Jan Jakubův&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://usermap.cvut.cz/profile/1d88ef8a-5f02-4efb-964c-7a10a4ee4500&#34;&gt;MSc. Keneni W. Tesema&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://deeper4ai.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Fri, 15 Aug 2025 21:36:57 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>&lt;p&gt;First publications are expected in 2026.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Products</title>
-      <link>https://deeper4ai.github.io/products/</link>
+      <link>http://localhost:1313/products/</link>
       <pubDate>Fri, 15 Aug 2025 21:36:52 +0200</pubDate>
-      <guid>https://deeper4ai.github.io/products/</guid>
+      <guid>http://localhost:1313/products/</guid>
       <description>&lt;p&gt;First products are expected in 2026.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -34,6 +34,11 @@ To achieve the overall goal of powerful automated reasoning for mathematics, the
    mathematical problems, using learning techniques such as conjecturing,
    reinforcement, and inspiration from existing proofs.
 
+#### Funding
+
+This project is funded by the [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) grant project 
+[DEEPER](https://www.renaissancephilanthropy.org/deeper-exploratory-engine-for-precise-expert-reasoning).
+
 #### Partnership 
 
 The project is an international cooperation between 
@@ -49,8 +54,4 @@ uniting complementary expertise to develop AI-guided automated reasoning systems
      <img src="images/logo-ctu.svg" alt="CTU" style="width:15%;" />
   </div>
 </div>
-
-#### Funding
-
-This project is funded by the [Renaissance Philanthropy DEEPER grant](https://www.renaissancephilanthropy.org/deeper-exploratory-engine-for-precise-expert-reasoning).
 

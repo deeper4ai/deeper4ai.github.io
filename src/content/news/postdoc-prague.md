@@ -1,6 +1,6 @@
 +++
 date = '2025-08-15T21:37:20+02:00'
-title = '📢 Open Postdoctoral position in Prague'
+title = '📢 Open Postdoctoral position in Prague [CLOSED]'
 subtitle = 'AI-Guided Theorem Proving in Higher-Order Logic and Algebraic Domains'
 author = "Deeper4AI @ Prague"
 tags = ["Postdoc", "TheoremProving", "NeuroSymbolic", "FormalMethods"]
