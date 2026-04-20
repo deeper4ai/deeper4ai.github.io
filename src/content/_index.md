@@ -50,3 +50,7 @@ uniting complementary expertise to develop AI-guided automated reasoning systems
   </div>
 </div>
 
+#### Funding
+
+This project is funded by the [Renaissance Philanthropy DEEPER grant](https://www.renaissancephilanthropy.org/deeper-exploratory-engine-for-precise-expert-reasoning).
+

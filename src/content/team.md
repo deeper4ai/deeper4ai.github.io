@@ -18,4 +18,5 @@ title = 'Team'
 
 + [Dr. Martin Suda](https://people.ciirc.cvut.cz/~sudamar2/)
 + [Dr. Jan Jakubův](https://people.ciirc.cvut.cz/~jakubja5/)
++ [MSc. Keneni W. Tesema](https://usermap.cvut.cz/profile/1d88ef8a-5f02-4efb-964c-7a10a4ee4500)
 
