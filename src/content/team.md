@@ -13,8 +13,8 @@ title = 'Team'
 ### @ University of Melbourne 🇦🇺 
 
 + [Prof. Cezary Kaliszyk](https://ckaliszyk.github.io/)
-+ [Selene Linares Arevalo]()
-+ [Louis Cheung]()
++ [Dr. Selene Linares Arevalo]()
++ [Dr. Louis Cheung]()
 
 ### @ Czech Technical University in Prague 🇨🇿 
 
