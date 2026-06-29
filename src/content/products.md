@@ -35,7 +35,8 @@ title = 'Products'
 
 🔔 __Visualization tool to inspect TPTP proofs of Isabelle Sledgehammer exports.__
 
-+ TBA: Source codes at [GitHub](https://github.com/deeper4ai/vizabelle)
++ Source codes at [GitHub](https://github.com/deeper4ai/vizabelle)
++ [Library](https://github.com/deeper4ai/vizabelle) with Isabelle ATP proof examples.
 
 ## DHORES 
 
