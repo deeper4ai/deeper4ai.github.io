@@ -40,16 +40,15 @@ title = 'Products'
 
 ## DHORES 
 
-🔔 __TBA__ Prover
+🔔 __Prototype Higher-Order Resolution Prover Supporting Dependent HOL.__
 
 + Source codes available for [download](/download/ADHOL.zip)
 
 
-## Problems under the Translation
+## DLash
 
-🔔 __TBA__
+🔔 __Dependent Higher-order Logic Prover DLash.__
 
-+ Problems available for [download](/download/translated.tgz)
-
++ Source codes available for [download](/download/dlash.tgz)
 
 
