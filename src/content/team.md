@@ -15,6 +15,7 @@ title = 'Team'
 + [Prof. Cezary Kaliszyk](https://ckaliszyk.github.io/)
 + [Dr. Selene Linares Arevalo]()
 + [Dr. Louis Cheung]()
++ [Dr. Ian Shillito]()
 
 ### @ Czech Technical University in Prague 🇨🇿 
 

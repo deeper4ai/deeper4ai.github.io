@@ -23,10 +23,9 @@ Preprints of papers accepted for publication, currently in press.
 
 3. _Rhea Ranalter_, _Florian Rabe_, _Cezary Kaliszyk_:\
    **Polymorphism Meets DHOL**.\
-   [ [arXiv](https://arxiv.org/abs/2605.00295) |
-     [dblp](https://dblp.org/rec/journals/corr/abs-2605-00295.html) |
-     [bibtex](https://dblp.org/rec/journals/corr/abs-2605-00295.html?view=bibtex)
+   [ [pdf](/papers/fscd26.pdf) |
    ]
+   (Accepted to [FSCD'26](https://fscd2026.github.io/))
 
 4. _Jeremy Lindsay_, _Cezary Kaliszyk_, _Christine Rizkallah_:\
    **Optimising Metamath Proofs for Human Working Memory**.\
