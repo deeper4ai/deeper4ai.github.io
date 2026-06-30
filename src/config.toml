@@ -4,6 +4,7 @@ title = 'Deeper4AI'
 theme = 'beautifulhugo'
 
 [params]
+  homeTitle = 'Deeper4AI'
   # Optional: Add a description
   description = "Deeper AI for Theorem Provers"
   # Optional: Add featured image for homepage
