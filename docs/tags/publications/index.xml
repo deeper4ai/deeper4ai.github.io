@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Publications on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/publications/</link>
+		<description>Recent content in Publications on Deeper4AI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://deeper4ai.github.io/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>📜 New Publications</title>
+				<link>https://deeper4ai.github.io/news/new-publications-2026/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/new-publications-2026/</guid>
+				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;https://deeper4ai.github.io/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

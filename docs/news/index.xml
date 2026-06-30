@@ -10,11 +10,32 @@
 		
 		
 		
-			<lastBuildDate>Fri, 15 Aug 2025 21:37:20 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/news/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>📢 Open Postdoctoral position in Prague [CLOSED]</title>
+				<title>📜 New Publications</title>
+				<link>https://deeper4ai.github.io/news/new-publications-2026/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/new-publications-2026/</guid>
+				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;https://deeper4ai.github.io/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🛠️ New Products</title>
+				<link>https://deeper4ai.github.io/news/new-products-2026/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/new-products-2026/</guid>
+				<description>&lt;p&gt;We are happy to present a collection of software tools developed by our team,&#xA;spanning ML-guided theorem proving, algorithm configuration, proof visualization,&#xA;and higher-order logic reasoning. See our &lt;a href=&#34;https://deeper4ai.github.io/products&#34;&gt;Products&lt;/a&gt; page for downloads and source code.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deepire-2.0-HO&lt;/strong&gt; — ML-based clause selection guidance for TPTP&amp;rsquo;s higher-order&#xA;dialects in the Vampire prover, extending the Deepire learning framework to the&#xA;higher-order setting.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;λENIGMA&lt;/strong&gt; — ML-based clause selection guidance for TPTP&amp;rsquo;s higher-order dialects&#xA;in the E prover, bringing ENIGMA&amp;rsquo;s learning-guided search to higher-order logic,&#xA;including bug reports and fixes discovered during evaluation on Isabelle exports.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🏛️ CHAIR Workshop 2026</title>
+				<link>https://deeper4ai.github.io/news/chair-workshop-2026/</link>
+				<pubDate>Tue, 26 May 2026 09:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/chair-workshop-2026/</guid>
+				<description>&lt;p&gt;Members of our Prague group participated in the &lt;a href=&#34;https://josefurban.eu/chalmers_workshop_webpage.html&#34;&gt;Gothenburg CHAIR Workshop 2026&lt;/a&gt; (May 26–29, 2026) at Chalmers University of Technology, Gothenburg, Sweden. The workshop brought together researchers working on AI-guided automated and interactive theorem proving.&lt;/p&gt;&#xA;&lt;p&gt;We presented three talks covering our recent work:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~sudamar2/&#34;&gt;Martin Suda&lt;/a&gt;&lt;/strong&gt; presented &lt;em&gt;&amp;ldquo;Strong Within Benchmarks, Weak Across Them: Evaluating Neural Guidance in Vampire&amp;rdquo;&lt;/em&gt;, examining how learned guidance in the Vampire ATP system generalises across different problem benchmarks.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>📢 Postdoctoral position [CLOSED]</title>
 				<link>https://deeper4ai.github.io/news/postdoc-prague/</link>
 				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/news/postdoc-prague/</guid>

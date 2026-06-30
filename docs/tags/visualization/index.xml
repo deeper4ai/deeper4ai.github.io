@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Visualization on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/visualization/</link>
+		<description>Recent content in Visualization on Deeper4AI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://deeper4ai.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🛠️ New Products</title>
+				<link>https://deeper4ai.github.io/news/new-products-2026/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/new-products-2026/</guid>
+				<description>&lt;p&gt;We are happy to present a collection of software tools developed by our team,&#xA;spanning ML-guided theorem proving, algorithm configuration, proof visualization,&#xA;and higher-order logic reasoning. See our &lt;a href=&#34;https://deeper4ai.github.io/products&#34;&gt;Products&lt;/a&gt; page for downloads and source code.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deepire-2.0-HO&lt;/strong&gt; — ML-based clause selection guidance for TPTP&amp;rsquo;s higher-order&#xA;dialects in the Vampire prover, extending the Deepire learning framework to the&#xA;higher-order setting.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;λENIGMA&lt;/strong&gt; — ML-based clause selection guidance for TPTP&amp;rsquo;s higher-order dialects&#xA;in the E prover, bringing ENIGMA&amp;rsquo;s learning-guided search to higher-order logic,&#xA;including bug reports and fixes discovered during evaluation on Isabelle exports.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

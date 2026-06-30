@@ -10,9 +10,79 @@
 		
 		
 		
-			<lastBuildDate>Fri, 15 Aug 2025 21:37:20 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Autoformalization</title>
+				<link>https://deeper4ai.github.io/tags/autoformalization/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/autoformalization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>EProver</title>
+				<link>https://deeper4ai.github.io/tags/eprover/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/eprover/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Isabelle</title>
+				<link>https://deeper4ai.github.io/tags/isabelle/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/isabelle/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MachineLearning</title>
+				<link>https://deeper4ai.github.io/tags/machinelearning/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/machinelearning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Products</title>
+				<link>https://deeper4ai.github.io/tags/products/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/products/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Publications</title>
+				<link>https://deeper4ai.github.io/tags/publications/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/publications/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TheoremProving</title>
+				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vampire</title>
+				<link>https://deeper4ai.github.io/tags/vampire/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/vampire/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Visualization</title>
+				<link>https://deeper4ai.github.io/tags/visualization/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/visualization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Workshop</title>
+				<link>https://deeper4ai.github.io/tags/workshop/</link>
+				<pubDate>Tue, 26 May 2026 09:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/workshop/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>FormalMethods</title>
 				<link>https://deeper4ai.github.io/tags/formalmethods/</link>
@@ -32,13 +102,6 @@
 				<link>https://deeper4ai.github.io/tags/postdoc/</link>
 				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/postdoc/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>TheoremProving</title>
-				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
-				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
 				<description></description>
 			</item>
 	</channel>

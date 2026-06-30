@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Workshop on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/workshop/</link>
+		<description>Recent content in Workshop on Deeper4AI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 26 May 2026 09:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://deeper4ai.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🏛️ CHAIR Workshop 2026</title>
+				<link>https://deeper4ai.github.io/news/chair-workshop-2026/</link>
+				<pubDate>Tue, 26 May 2026 09:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/chair-workshop-2026/</guid>
+				<description>&lt;p&gt;Members of our Prague group participated in the &lt;a href=&#34;https://josefurban.eu/chalmers_workshop_webpage.html&#34;&gt;Gothenburg CHAIR Workshop 2026&lt;/a&gt; (May 26–29, 2026) at Chalmers University of Technology, Gothenburg, Sweden. The workshop brought together researchers working on AI-guided automated and interactive theorem proving.&lt;/p&gt;&#xA;&lt;p&gt;We presented three talks covering our recent work:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~sudamar2/&#34;&gt;Martin Suda&lt;/a&gt;&lt;/strong&gt; presented &lt;em&gt;&amp;ldquo;Strong Within Benchmarks, Weak Across Them: Evaluating Neural Guidance in Vampire&amp;rdquo;&lt;/em&gt;, examining how learned guidance in the Vampire ATP system generalises across different problem benchmarks.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
