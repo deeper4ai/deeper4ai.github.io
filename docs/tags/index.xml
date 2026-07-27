@@ -10,14 +10,63 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 15 Jul 2026 16:03:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>DHOL</title>
+				<link>https://deeper4ai.github.io/tags/dhol/</link>
+				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/dhol/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Publications</title>
+				<link>https://deeper4ai.github.io/tags/publications/</link>
+				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/publications/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TheoremProving</title>
+				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
+				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TypeTheory</title>
+				<link>https://deeper4ai.github.io/tags/typetheory/</link>
+				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/typetheory/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Autoformalization</title>
 				<link>https://deeper4ai.github.io/tags/autoformalization/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
+				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/autoformalization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Conference</title>
+				<link>https://deeper4ai.github.io/tags/conference/</link>
+				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/conference/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>LLM</title>
+				<link>https://deeper4ai.github.io/tags/llm/</link>
+				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/llm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MachineLearning</title>
+				<link>https://deeper4ai.github.io/tags/machinelearning/</link>
+				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/machinelearning/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -35,31 +84,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>MachineLearning</title>
-				<link>https://deeper4ai.github.io/tags/machinelearning/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/machinelearning/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Products</title>
 				<link>https://deeper4ai.github.io/tags/products/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/products/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Publications</title>
-				<link>https://deeper4ai.github.io/tags/publications/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/publications/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>TheoremProving</title>
-				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
-				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
 				<description></description>
 			</item>
 			<item>

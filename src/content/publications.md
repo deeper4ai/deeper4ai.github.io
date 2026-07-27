@@ -3,6 +3,17 @@ date = '2025-08-15T21:36:57+02:00'
 title = 'Publications'
 +++
 
+## 📚 Conference Papers
+
+1. _Rhea Ranalter_, _Florian Rabe_, _Cezary Kaliszyk_:\
+   **✦ Polymorphism Meets DHOL**.\
+   In LIPIcs, Volume 378, [FSCD 2026](https://fscd2026.github.io/).\
+   [ [pdf](/papers/fscd26.pdf) |
+     [doi](https://doi.org/10.4230/LIPIcs.FSCD.2026.27) |
+     [proceedings](https://www.dagstuhl.de/dagpub/978-3-95977-433-8) |
+     [bibtex](https://dblp.uni-trier.de/rec/conf/fscd/RanalterRK26.html?view=bibtex)
+   ]
+
 ## 📄 Preprints
 
 Preprints of papers accepted for publication, currently in press.
@@ -21,19 +32,13 @@ Preprints of papers accepted for publication, currently in press.
      [bibtex](https://dblp.org/rec/journals/corr/abs-2604-07455.html?view=bibtex)
    ]
 
-3. _Rhea Ranalter_, _Florian Rabe_, _Cezary Kaliszyk_:\
-   **✦ Polymorphism Meets DHOL**.\
-   [ [pdf](/papers/fscd26.pdf) |
-   ]
-   (Accepted to [FSCD'26](https://fscd2026.github.io/))
-
-4. _Jeremy Lindsay_, _Cezary Kaliszyk_, _Christine Rizkallah_:\
+3. _Jeremy Lindsay_, _Cezary Kaliszyk_, _Christine Rizkallah_:\
    **✦ Optimising Metamath Proofs for Human Working Memory**.\
    [ [pdf](/papers/cicm26A.pdf) 
    ]
    (Accepted to [CICM'26](https://cicm-conference.org/2026/cicm.php))
 
-5. _Jan Jakubův_, _Cezary Kaliszyk_, _Martin Suda_.\
+4. _Jan Jakubův_, _Cezary Kaliszyk_, _Martin Suda_.\
    **✦ Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL**.\
    [ [pdf](/papers/cicm26B.pdf) 
    ]

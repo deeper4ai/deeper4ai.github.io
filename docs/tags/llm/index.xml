@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>LLM on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/llm/</link>
+		<description>Recent content in LLM on Deeper4AI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Jul 2026 17:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://deeper4ai.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🎤 Invited Talk at SCML-2026</title>
+				<link>https://deeper4ai.github.io/news/scml-2026/</link>
+				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/scml-2026/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://ckaliszyk.github.io/&#34;&gt;Prof. Cezary Kaliszyk&lt;/a&gt;&lt;/strong&gt; gave an invited talk at &lt;a href=&#34;https://scml.risc.jku.at/conference-2026/program/&#34;&gt;SCML-2026&lt;/a&gt;, the conference on Symbolic Computation and Machine Learning, held July 6–8, 2026 in Hagenberg, Austria.&lt;/p&gt;&#xA;&lt;p&gt;His talk, &lt;em&gt;&amp;ldquo;Formalization and Automated Reasoning in the Age of LLMs&amp;rdquo;&lt;/em&gt;, was presented on Monday, July 6, and discussed how large language models are reshaping formalization and automated reasoning. The &lt;a href=&#34;https://scml.risc.jku.at/conference-2026/presentations/scml2026.10a.kaliszyk.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
