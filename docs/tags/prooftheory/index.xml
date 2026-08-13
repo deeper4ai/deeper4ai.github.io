@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ProofTheory on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/prooftheory/</link>
+		<description>Recent content in ProofTheory on Deeper4AI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 13 Aug 2026 10:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://deeper4ai.github.io/tags/prooftheory/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>📚 Two papers published at IJCAR&#39;26</title>
+				<link>https://deeper4ai.github.io/news/ijcar-2026-published/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/ijcar-2026-published/</guid>
+				<description>&lt;p&gt;Two papers co-authored by our team member &lt;em&gt;Ian Shillito&lt;/em&gt; have been published in the&#xA;proceedings of the &lt;a href=&#34;https://ijcar.org/&#34;&gt;13th International Joint Conference on Automated Reasoning (IJCAR 2026)&lt;/a&gt;,&#xA;held in Lisbon, Portugal, as part of FLoC 2026. Both papers extend Pitts&amp;rsquo; proof-theoretic&#xA;technique for uniform interpolation to new intuitionistic modal settings, and both come with&#xA;full mechanisations in the Rocq proof assistant.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pitts and Intuitionistic Multi-Succedent: Uniform Interpolation for KM&lt;/strong&gt;&#xA;by &lt;em&gt;Hugo Férée&lt;/em&gt; and &lt;em&gt;Ian Shillito&lt;/em&gt;.&#xA;Pitts&amp;rsquo; technique had so far only been applied to logics on an intuitionistic basis through&#xA;single-succedent sequent calculi. This paper adapts it to the intuitionistic multi-succedent&#xA;setting, focusing on the intuitionistic modal logic KM: a novel multi-succedent sequent calculus&#xA;is designed that terminates and eliminates cut, yielding decidability, and is then used to&#xA;construct uniform interpolants for KM. By (re)proving the algebraisability of KM, the coherence&#xA;of the class of KM-algebras follows.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

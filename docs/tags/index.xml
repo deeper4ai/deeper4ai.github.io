@@ -10,21 +10,56 @@
 		
 		
 		
-			<lastBuildDate>Wed, 15 Jul 2026 16:03:00 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 13 Aug 2026 10:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>DHOL</title>
-				<link>https://deeper4ai.github.io/tags/dhol/</link>
-				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/dhol/</guid>
+				<title>FormalVerification</title>
+				<link>https://deeper4ai.github.io/tags/formalverification/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/formalverification/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ModalLogic</title>
+				<link>https://deeper4ai.github.io/tags/modallogic/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/modallogic/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ProofTheory</title>
+				<link>https://deeper4ai.github.io/tags/prooftheory/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/prooftheory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Publications</title>
 				<link>https://deeper4ai.github.io/tags/publications/</link>
-				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/publications/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rocq</title>
+				<link>https://deeper4ai.github.io/tags/rocq/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/rocq/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UniformInterpolation</title>
+				<link>https://deeper4ai.github.io/tags/uniforminterpolation/</link>
+				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/uniforminterpolation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DHOL</title>
+				<link>https://deeper4ai.github.io/tags/dhol/</link>
+				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/dhol/</guid>
 				<description></description>
 			</item>
 			<item>

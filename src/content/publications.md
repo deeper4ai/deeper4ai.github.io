@@ -14,6 +14,24 @@ title = 'Publications'
      [bibtex](https://dblp.uni-trier.de/rec/conf/fscd/RanalterRK26.html?view=bibtex)
    ]
 
+2. _Hugo Férée_, _Ian Shillito_:\
+   **✦ Pitts and Intuitionistic Multi-Succedent: Uniform Interpolation for KM**.\
+   In LNCS, Volume 16688, [IJCAR 2026](https://ijcar.org/).\
+   [ [pdf](/papers/ijcar26A.pdf) |
+     [doi](https://doi.org/10.1007/978-3-032-32589-1_21) |
+     [proceedings](https://link.springer.com/book/10.1007/978-3-032-32589-1) |
+     [bibtex](https://dblp.org/rec/conf/ijcar/FereeS26.html?view=bibtex)
+   ]
+
+3. _Iris van der Giessen_, _Ian Shillito_:\
+   **✦ Uniform Interpolation with Constructive Diamond**.\
+   In LNCS, Volume 16688, [IJCAR 2026](https://ijcar.org/).\
+   [ [pdf](/papers/ijcar26B.pdf) |
+     [doi](https://doi.org/10.1007/978-3-032-32589-1_22) |
+     [proceedings](https://link.springer.com/book/10.1007/978-3-032-32589-1) |
+     [bibtex](https://dblp.org/rec/conf/ijcar/GiessenS26.html?view=bibtex)
+   ]
+
 ## 📄 Preprints
 
 Preprints of papers accepted for publication, currently in press.
