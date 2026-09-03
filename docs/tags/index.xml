@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Deeper4AI</title>
-		<link>http://localhost:1313/tags/</link>
+		<link>https://deeper4ai.github.io/tags/</link>
 		<description>Recent content in Tags on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,173 +12,173 @@
 		
 			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Isabelle</title>
-				<link>http://localhost:1313/tags/isabelle/</link>
+				<link>https://deeper4ai.github.io/tags/isabelle/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/isabelle/</guid>
+				<guid>https://deeper4ai.github.io/tags/isabelle/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MachineLearning</title>
-				<link>http://localhost:1313/tags/machinelearning/</link>
+				<link>https://deeper4ai.github.io/tags/machinelearning/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/machinelearning/</guid>
+				<guid>https://deeper4ai.github.io/tags/machinelearning/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PremiseSelection</title>
-				<link>http://localhost:1313/tags/premiseselection/</link>
+				<link>https://deeper4ai.github.io/tags/premiseselection/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/premiseselection/</guid>
+				<guid>https://deeper4ai.github.io/tags/premiseselection/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Presentation</title>
-				<link>http://localhost:1313/tags/presentation/</link>
+				<link>https://deeper4ai.github.io/tags/presentation/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/presentation/</guid>
+				<guid>https://deeper4ai.github.io/tags/presentation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TheoremProving</title>
-				<link>http://localhost:1313/tags/theoremproving/</link>
+				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/theoremproving/</guid>
+				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Autoformalization</title>
-				<link>http://localhost:1313/tags/autoformalization/</link>
+				<link>https://deeper4ai.github.io/tags/autoformalization/</link>
 				<pubDate>Thu, 20 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/autoformalization/</guid>
+				<guid>https://deeper4ai.github.io/tags/autoformalization/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LLM</title>
-				<link>http://localhost:1313/tags/llm/</link>
+				<link>https://deeper4ai.github.io/tags/llm/</link>
 				<pubDate>Thu, 20 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/llm/</guid>
+				<guid>https://deeper4ai.github.io/tags/llm/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Publications</title>
-				<link>http://localhost:1313/tags/publications/</link>
+				<link>https://deeper4ai.github.io/tags/publications/</link>
 				<pubDate>Thu, 20 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/publications/</guid>
+				<guid>https://deeper4ai.github.io/tags/publications/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FormalVerification</title>
-				<link>http://localhost:1313/tags/formalverification/</link>
+				<link>https://deeper4ai.github.io/tags/formalverification/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/formalverification/</guid>
+				<guid>https://deeper4ai.github.io/tags/formalverification/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ModalLogic</title>
-				<link>http://localhost:1313/tags/modallogic/</link>
+				<link>https://deeper4ai.github.io/tags/modallogic/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/modallogic/</guid>
+				<guid>https://deeper4ai.github.io/tags/modallogic/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ProofTheory</title>
-				<link>http://localhost:1313/tags/prooftheory/</link>
+				<link>https://deeper4ai.github.io/tags/prooftheory/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/prooftheory/</guid>
+				<guid>https://deeper4ai.github.io/tags/prooftheory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rocq</title>
-				<link>http://localhost:1313/tags/rocq/</link>
+				<link>https://deeper4ai.github.io/tags/rocq/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/rocq/</guid>
+				<guid>https://deeper4ai.github.io/tags/rocq/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>UniformInterpolation</title>
-				<link>http://localhost:1313/tags/uniforminterpolation/</link>
+				<link>https://deeper4ai.github.io/tags/uniforminterpolation/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/uniforminterpolation/</guid>
+				<guid>https://deeper4ai.github.io/tags/uniforminterpolation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DHOL</title>
-				<link>http://localhost:1313/tags/dhol/</link>
+				<link>https://deeper4ai.github.io/tags/dhol/</link>
 				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/dhol/</guid>
+				<guid>https://deeper4ai.github.io/tags/dhol/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TypeTheory</title>
-				<link>http://localhost:1313/tags/typetheory/</link>
+				<link>https://deeper4ai.github.io/tags/typetheory/</link>
 				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/typetheory/</guid>
+				<guid>https://deeper4ai.github.io/tags/typetheory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Conference</title>
-				<link>http://localhost:1313/tags/conference/</link>
+				<link>https://deeper4ai.github.io/tags/conference/</link>
 				<pubDate>Mon, 06 Jul 2026 17:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/conference/</guid>
+				<guid>https://deeper4ai.github.io/tags/conference/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>EProver</title>
-				<link>http://localhost:1313/tags/eprover/</link>
+				<link>https://deeper4ai.github.io/tags/eprover/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/eprover/</guid>
+				<guid>https://deeper4ai.github.io/tags/eprover/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Products</title>
-				<link>http://localhost:1313/tags/products/</link>
+				<link>https://deeper4ai.github.io/tags/products/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/products/</guid>
+				<guid>https://deeper4ai.github.io/tags/products/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vampire</title>
-				<link>http://localhost:1313/tags/vampire/</link>
+				<link>https://deeper4ai.github.io/tags/vampire/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/vampire/</guid>
+				<guid>https://deeper4ai.github.io/tags/vampire/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Visualization</title>
-				<link>http://localhost:1313/tags/visualization/</link>
+				<link>https://deeper4ai.github.io/tags/visualization/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/visualization/</guid>
+				<guid>https://deeper4ai.github.io/tags/visualization/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Workshop</title>
-				<link>http://localhost:1313/tags/workshop/</link>
+				<link>https://deeper4ai.github.io/tags/workshop/</link>
 				<pubDate>Tue, 26 May 2026 09:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/tags/workshop/</guid>
+				<guid>https://deeper4ai.github.io/tags/workshop/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>FormalMethods</title>
-				<link>http://localhost:1313/tags/formalmethods/</link>
+				<link>https://deeper4ai.github.io/tags/formalmethods/</link>
 				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-				<guid>http://localhost:1313/tags/formalmethods/</guid>
+				<guid>https://deeper4ai.github.io/tags/formalmethods/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>NeuroSymbolic</title>
-				<link>http://localhost:1313/tags/neurosymbolic/</link>
+				<link>https://deeper4ai.github.io/tags/neurosymbolic/</link>
 				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-				<guid>http://localhost:1313/tags/neurosymbolic/</guid>
+				<guid>https://deeper4ai.github.io/tags/neurosymbolic/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Postdoc</title>
-				<link>http://localhost:1313/tags/postdoc/</link>
+				<link>https://deeper4ai.github.io/tags/postdoc/</link>
 				<pubDate>Fri, 15 Aug 2025 21:37:20 +0200</pubDate>
-				<guid>http://localhost:1313/tags/postdoc/</guid>
+				<guid>https://deeper4ai.github.io/tags/postdoc/</guid>
 				<description></description>
 			</item>
 	</channel>

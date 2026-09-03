@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Isabelle on Deeper4AI</title>
-		<link>http://localhost:1313/tags/isabelle/</link>
+		<link>https://deeper4ai.github.io/tags/isabelle/</link>
 		<description>Recent content in Isabelle on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/isabelle/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://deeper4ai.github.io/tags/isabelle/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>🗣️ Two talks at AITP 2026</title>
-				<link>http://localhost:1313/news/aitp-2026-talks/</link>
+				<link>https://deeper4ai.github.io/news/aitp-2026-talks/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/news/aitp-2026-talks/</guid>
-				<description>&lt;p&gt;Two members of our team gave talks at &lt;a href=&#34;https://aitp-conference.org/2026/&#34;&gt;AITP 2026&lt;/a&gt;&#xA;(Conference on Artificial Intelligence and Theorem Proving) on September 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/papers/cicm26B.pdf&#34;&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/a&gt;&lt;/strong&gt;,&#xA;on higher-order extensions of ENIGMA and Deepire evaluated on a large Isabelle/HOL corpus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Keneni W. Tesema&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://aitp-conference.org/2026/abstract/AITP_2026_paper_13.pdf&#34;&gt;Premise Selection for Higher-Order ATP Problems&lt;/a&gt;&lt;/strong&gt;,&#xA;on selecting relevant premises for higher-order automated theorem proving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>https://deeper4ai.github.io/news/aitp-2026-talks/</guid>
+				<description>&lt;p&gt;Two members of our team gave talks at &lt;a href=&#34;https://aitp-conference.org/2026/&#34;&gt;AITP 2026&lt;/a&gt;&#xA;(Conference on Artificial Intelligence and Theorem Proving) on September 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26B.pdf&#34;&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/a&gt;&lt;/strong&gt;,&#xA;on higher-order extensions of ENIGMA and Deepire evaluated on a large Isabelle/HOL corpus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Keneni W. Tesema&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://aitp-conference.org/2026/abstract/AITP_2026_paper_13.pdf&#34;&gt;Premise Selection for Higher-Order ATP Problems&lt;/a&gt;&lt;/strong&gt;,&#xA;on selecting relevant premises for higher-order automated theorem proving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>📜 New Publications</title>
-				<link>http://localhost:1313/news/new-publications-2026/</link>
+				<link>https://deeper4ai.github.io/news/new-publications-2026/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/news/new-publications-2026/</guid>
-				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;http://localhost:1313/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
+				<guid>https://deeper4ai.github.io/news/new-publications-2026/</guid>
+				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;https://deeper4ai.github.io/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>🏛️ CHAIR Workshop 2026</title>
-				<link>http://localhost:1313/news/chair-workshop-2026/</link>
+				<link>https://deeper4ai.github.io/news/chair-workshop-2026/</link>
 				<pubDate>Tue, 26 May 2026 09:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/news/chair-workshop-2026/</guid>
+				<guid>https://deeper4ai.github.io/news/chair-workshop-2026/</guid>
 				<description>&lt;p&gt;Members of our Prague group participated in the &lt;a href=&#34;https://josefurban.eu/chalmers_workshop_webpage.html&#34;&gt;Gothenburg CHAIR Workshop 2026&lt;/a&gt; (May 26–29, 2026) at Chalmers University of Technology, Gothenburg, Sweden. The workshop brought together researchers working on AI-guided automated and interactive theorem proving.&lt;/p&gt;&#xA;&lt;p&gt;We presented three talks covering our recent work:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://people.ciirc.cvut.cz/~sudamar2/&#34;&gt;Martin Suda&lt;/a&gt;&lt;/strong&gt; presented &lt;em&gt;&amp;ldquo;Strong Within Benchmarks, Weak Across Them: Evaluating Neural Guidance in Vampire&amp;rdquo;&lt;/em&gt;, examining how learned guidance in the Vampire ATP system generalises across different problem benchmarks.&lt;/p&gt;</description>
 			</item>
 	</channel>

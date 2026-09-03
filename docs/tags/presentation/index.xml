@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Presentation on Deeper4AI</title>
-		<link>http://localhost:1313/tags/presentation/</link>
+		<link>https://deeper4ai.github.io/tags/presentation/</link>
 		<description>Recent content in Presentation on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://deeper4ai.github.io/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>🗣️ Two talks at AITP 2026</title>
-				<link>http://localhost:1313/news/aitp-2026-talks/</link>
+				<link>https://deeper4ai.github.io/news/aitp-2026-talks/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/news/aitp-2026-talks/</guid>
-				<description>&lt;p&gt;Two members of our team gave talks at &lt;a href=&#34;https://aitp-conference.org/2026/&#34;&gt;AITP 2026&lt;/a&gt;&#xA;(Conference on Artificial Intelligence and Theorem Proving) on September 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/papers/cicm26B.pdf&#34;&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/a&gt;&lt;/strong&gt;,&#xA;on higher-order extensions of ENIGMA and Deepire evaluated on a large Isabelle/HOL corpus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Keneni W. Tesema&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://aitp-conference.org/2026/abstract/AITP_2026_paper_13.pdf&#34;&gt;Premise Selection for Higher-Order ATP Problems&lt;/a&gt;&lt;/strong&gt;,&#xA;on selecting relevant premises for higher-order automated theorem proving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>https://deeper4ai.github.io/news/aitp-2026-talks/</guid>
+				<description>&lt;p&gt;Two members of our team gave talks at &lt;a href=&#34;https://aitp-conference.org/2026/&#34;&gt;AITP 2026&lt;/a&gt;&#xA;(Conference on Artificial Intelligence and Theorem Proving) on September 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26B.pdf&#34;&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/a&gt;&lt;/strong&gt;,&#xA;on higher-order extensions of ENIGMA and Deepire evaluated on a large Isabelle/HOL corpus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Keneni W. Tesema&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://aitp-conference.org/2026/abstract/AITP_2026_paper_13.pdf&#34;&gt;Premise Selection for Higher-Order ATP Problems&lt;/a&gt;&lt;/strong&gt;,&#xA;on selecting relevant premises for higher-order automated theorem proving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
