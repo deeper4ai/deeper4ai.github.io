@@ -89,6 +89,15 @@ Corresponding news posts (announcing new publications) are common practice
 alongside adding entries here — check the last few `git log` entries for the
 paired pattern of "add papers" + "news" commits.
 
+### Pending follow-up
+
+The PAAR'26 paper ("Agent Hunt: Bounty Based Collaborative Autoformalization
+With LLM Agents", CEUR-WS Vol-4241) currently has its `bibtex` link pointing
+at the arXiv/CoRR DBLP record, since DBLP hasn't indexed the `conf/paar`
+proceedings entry yet. Once it appears on DBLP, update that `bibtex` (and
+ideally add a `doi` if CEUR-WS assigns one) to point at the proper `conf/paar`
+record.
+
 ## Conventions
 
 - Emoji prefixes are used throughout for visual scanning: news titles, section

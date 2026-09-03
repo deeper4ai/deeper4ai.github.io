@@ -36,6 +36,7 @@ title = 'Publications'
    **✦ Agent Hunt: Bounty Based Collaborative Autoformalization With LLM Agents**.\
    In CEUR Workshop Proceedings, Vol. 4241, [PAAR 2026](https://ceur-ws.org/Vol-4241/).\
    [ [pdf](https://ceur-ws.org/Vol-4241/short5.pdf) |
+     [arXiv](https://doi.org/10.48550/arXiv.2603.06737) |
      [proceedings](https://ceur-ws.org/Vol-4241/) |
      [bibtex](https://dblp.org/rec/journals/corr/abs-2603-06737.html?view=bibtex)
    ]
