@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Publications on Deeper4AI</title>
-		<link>https://deeper4ai.github.io/tags/publications/</link>
+		<link>http://localhost:1313/tags/publications/</link>
 		<description>Recent content in Publications on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,29 +10,36 @@
 		
 		
 		
-			<lastBuildDate>Thu, 13 Aug 2026 10:00:00 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 20 Aug 2026 10:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="https://deeper4ai.github.io/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>📜 Agent Hunt paper published at PAAR&#39;26</title>
+				<link>http://localhost:1313/news/paar-2026-published/</link>
+				<pubDate>Thu, 20 Aug 2026 10:00:00 +0200</pubDate>
+				<guid>http://localhost:1313/news/paar-2026-published/</guid>
+				<description>&lt;p&gt;Our paper &lt;strong&gt;Agent Hunt: Bounty Based Collaborative Autoformalization With LLM&#xA;Agents&lt;/strong&gt;, by &lt;em&gt;Chad E. Brown&lt;/em&gt;, &lt;em&gt;Cezary Kaliszyk&lt;/em&gt;, and &lt;em&gt;Josef Urban&lt;/em&gt;, has been&#xA;published in the proceedings of the&#xA;&lt;a href=&#34;https://ceur-ws.org/Vol-4241/&#34;&gt;Workshop on Practical Aspects of Automated Reasoning (PAAR 2026)&lt;/a&gt;,&#xA;held as part of FLoC 2026 in Lisbon, Portugal. The paper explores large-scale&#xA;autoformalization of algebraic topology using a simulated bounty marketplace,&#xA;where multiple LLM agents propose formal lemmas, attach bounties, and compete&#xA;to discharge proof obligations, scaling collaborative formalization in a&#xA;decentralized fashion.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>📚 Two papers published at IJCAR&#39;26</title>
-				<link>https://deeper4ai.github.io/news/ijcar-2026-published/</link>
+				<link>http://localhost:1313/news/ijcar-2026-published/</link>
 				<pubDate>Thu, 13 Aug 2026 10:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/news/ijcar-2026-published/</guid>
+				<guid>http://localhost:1313/news/ijcar-2026-published/</guid>
 				<description>&lt;p&gt;Two papers co-authored by our team member &lt;em&gt;Ian Shillito&lt;/em&gt; have been published in the&#xA;proceedings of the &lt;a href=&#34;https://ijcar.org/&#34;&gt;13th International Joint Conference on Automated Reasoning (IJCAR 2026)&lt;/a&gt;,&#xA;held in Lisbon, Portugal, as part of FLoC 2026. Both papers extend Pitts&amp;rsquo; proof-theoretic&#xA;technique for uniform interpolation to new intuitionistic modal settings, and both come with&#xA;full mechanisations in the Rocq proof assistant.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pitts and Intuitionistic Multi-Succedent: Uniform Interpolation for KM&lt;/strong&gt;&#xA;by &lt;em&gt;Hugo Férée&lt;/em&gt; and &lt;em&gt;Ian Shillito&lt;/em&gt;.&#xA;Pitts&amp;rsquo; technique had so far only been applied to logics on an intuitionistic basis through&#xA;single-succedent sequent calculi. This paper adapts it to the intuitionistic multi-succedent&#xA;setting, focusing on the intuitionistic modal logic KM: a novel multi-succedent sequent calculus&#xA;is designed that terminates and eliminates cut, yielding decidability, and is then used to&#xA;construct uniform interpolants for KM. By (re)proving the algebraisability of KM, the coherence&#xA;of the class of KM-algebras follows.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>📚 Paper published at FSCD&#39;26</title>
-				<link>https://deeper4ai.github.io/news/dhol-fscd-2026-published/</link>
+				<link>http://localhost:1313/news/dhol-fscd-2026-published/</link>
 				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/news/dhol-fscd-2026-published/</guid>
+				<guid>http://localhost:1313/news/dhol-fscd-2026-published/</guid>
 				<description>&lt;p&gt;Our paper &lt;strong&gt;&amp;ldquo;Polymorphism Meets DHOL&amp;rdquo;&lt;/strong&gt; by &lt;em&gt;Rhea Ranalter&lt;/em&gt;, &lt;em&gt;Florian Rabe&lt;/em&gt;, and &lt;em&gt;Cezary Kaliszyk&lt;/em&gt; has been officially published as part of &lt;a href=&#34;https://www.dagstuhl.de/dagpub/978-3-95977-433-8&#34;&gt;LIPIcs, Volume 378, FSCD&#39;26&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;DHOL (Dependent Higher-Order Logic) is a powerful logic with dependent types and strong ATP support. This paper develops polymorphic DHOL (PDHOL), extending the expressivity of DHOL while retaining its simple definition and automation, with a sound and complete translation to polymorphic HOL implemented in a logic-embedding tool.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>📜 New Publications</title>
-				<link>https://deeper4ai.github.io/news/new-publications-2026/</link>
+				<link>http://localhost:1313/news/new-publications-2026/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/news/new-publications-2026/</guid>
-				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;https://deeper4ai.github.io/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/news/new-publications-2026/</guid>
+				<description>&lt;p&gt;We are happy to announce a series of new papers from our team, all accepted for&#xA;publication. The work spans two intertwined themes: large-scale LLM-assisted&#xA;autoformalization of mathematical textbooks, and machine learning guidance for&#xA;higher-order automated theorem proving. See our &lt;a href=&#34;http://localhost:1313/publications&#34;&gt;Publications&lt;/a&gt; page for details.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/strong&gt;.&#xA;We present higher-order extensions of ENIGMA and Deepire — the two prominent&#xA;learning-guided reasoning systems for the E and Vampire provers — and evaluate&#xA;them on a large Isabelle/HOL corpus emulating Sledgehammer, observing consistent&#xA;improvement across the board.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

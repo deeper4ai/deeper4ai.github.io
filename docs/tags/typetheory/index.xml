@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>TypeTheory on Deeper4AI</title>
-		<link>https://deeper4ai.github.io/tags/typetheory/</link>
+		<link>http://localhost:1313/tags/typetheory/</link>
 		<description>Recent content in TypeTheory on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 15 Jul 2026 16:03:00 +0200</lastBuildDate>
 		
-			<atom:link href="https://deeper4ai.github.io/tags/typetheory/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/typetheory/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>📚 Paper published at FSCD&#39;26</title>
-				<link>https://deeper4ai.github.io/news/dhol-fscd-2026-published/</link>
+				<link>http://localhost:1313/news/dhol-fscd-2026-published/</link>
 				<pubDate>Wed, 15 Jul 2026 16:03:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/news/dhol-fscd-2026-published/</guid>
+				<guid>http://localhost:1313/news/dhol-fscd-2026-published/</guid>
 				<description>&lt;p&gt;Our paper &lt;strong&gt;&amp;ldquo;Polymorphism Meets DHOL&amp;rdquo;&lt;/strong&gt; by &lt;em&gt;Rhea Ranalter&lt;/em&gt;, &lt;em&gt;Florian Rabe&lt;/em&gt;, and &lt;em&gt;Cezary Kaliszyk&lt;/em&gt; has been officially published as part of &lt;a href=&#34;https://www.dagstuhl.de/dagpub/978-3-95977-433-8&#34;&gt;LIPIcs, Volume 378, FSCD&#39;26&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;DHOL (Dependent Higher-Order Logic) is a powerful logic with dependent types and strong ATP support. This paper develops polymorphic DHOL (PDHOL), extending the expressivity of DHOL while retaining its simple definition and automation, with a sound and complete translation to polymorphic HOL implemented in a logic-embedding tool.&lt;/p&gt;</description>
 			</item>
 	</channel>
