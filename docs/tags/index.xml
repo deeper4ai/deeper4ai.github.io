@@ -10,21 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 29 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>InvitedTalk</title>
+				<link>https://deeper4ai.github.io/tags/invitedtalk/</link>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/invitedtalk/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Isabelle</title>
 				<link>https://deeper4ai.github.io/tags/isabelle/</link>
-				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/isabelle/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MachineLearning</title>
 				<link>https://deeper4ai.github.io/tags/machinelearning/</link>
-				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/machinelearning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Metamath</title>
+				<link>https://deeper4ai.github.io/tags/metamath/</link>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/metamath/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Presentation</title>
+				<link>https://deeper4ai.github.io/tags/presentation/</link>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/presentation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TheoremProving</title>
+				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -32,20 +60,6 @@
 				<link>https://deeper4ai.github.io/tags/premiseselection/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/tags/premiseselection/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Presentation</title>
-				<link>https://deeper4ai.github.io/tags/presentation/</link>
-				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/presentation/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>TheoremProving</title>
-				<link>https://deeper4ai.github.io/tags/theoremproving/</link>
-				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/tags/theoremproving/</guid>
 				<description></description>
 			</item>
 			<item>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 29 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://deeper4ai.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>🗣️ Three talks at CICM 2026</title>
+				<link>https://deeper4ai.github.io/news/cicm-2026-talks/</link>
+				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
+				<guid>https://deeper4ai.github.io/news/cicm-2026-talks/</guid>
+				<description>&lt;p&gt;Our team gave three talks at &lt;a href=&#34;https://cicm-conference.org/2026/cicm.php&#34;&gt;CICM 2026&lt;/a&gt;&#xA;(Conference on Intelligent Computer Mathematics), held in Ljubljana on September 21–25:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; gave an invited lecture&#xA;&lt;strong&gt;A Decade of ATP Tuning: Machine Learning, Strategy Invention, and AI in the Future&lt;/strong&gt;&#xA;at the &lt;a href=&#34;https://cicm-conference.org/2026/cicm.php?event=ai4math&amp;amp;menu=program&#34;&gt;AI4Math workshop&lt;/a&gt;&#xA;on September 21&#xA;(&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26-ai4math-invited.pdf&#34;&gt;slides&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jeremy Lindsay&lt;/em&gt; presented&#xA;&lt;strong&gt;&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26A.pdf&#34;&gt;Optimising Metamath Proofs for Human Working Memory&lt;/a&gt;&lt;/strong&gt;&#xA;(with &lt;em&gt;Cezary Kaliszyk&lt;/em&gt; and &lt;em&gt;Christine Rizkallah&lt;/em&gt;) in the&#xA;&lt;a href=&#34;https://easychair.org/smart-program/CICM2026/2026-09-22.html#talk:324161&#34;&gt;main track&lt;/a&gt;&#xA;on September 22, on reordering proof steps to reduce the working-memory&#xA;demand on human readers.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>🗣️ Two talks at AITP 2026</title>
 				<link>https://deeper4ai.github.io/news/aitp-2026-talks/</link>

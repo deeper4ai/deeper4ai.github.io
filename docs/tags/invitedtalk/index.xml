@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Presentation on Deeper4AI</title>
-		<link>https://deeper4ai.github.io/tags/presentation/</link>
-		<description>Recent content in Presentation on Deeper4AI</description>
+		<title>InvitedTalk on Deeper4AI</title>
+		<link>https://deeper4ai.github.io/tags/invitedtalk/</link>
+		<description>Recent content in InvitedTalk on Deeper4AI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Tue, 29 Sep 2026 10:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="https://deeper4ai.github.io/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://deeper4ai.github.io/tags/invitedtalk/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>🗣️ Three talks at CICM 2026</title>
 				<link>https://deeper4ai.github.io/news/cicm-2026-talks/</link>
 				<pubDate>Tue, 29 Sep 2026 10:00:00 +0200</pubDate>
 				<guid>https://deeper4ai.github.io/news/cicm-2026-talks/</guid>
 				<description>&lt;p&gt;Our team gave three talks at &lt;a href=&#34;https://cicm-conference.org/2026/cicm.php&#34;&gt;CICM 2026&lt;/a&gt;&#xA;(Conference on Intelligent Computer Mathematics), held in Ljubljana on September 21–25:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; gave an invited lecture&#xA;&lt;strong&gt;A Decade of ATP Tuning: Machine Learning, Strategy Invention, and AI in the Future&lt;/strong&gt;&#xA;at the &lt;a href=&#34;https://cicm-conference.org/2026/cicm.php?event=ai4math&amp;amp;menu=program&#34;&gt;AI4Math workshop&lt;/a&gt;&#xA;on September 21&#xA;(&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26-ai4math-invited.pdf&#34;&gt;slides&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jeremy Lindsay&lt;/em&gt; presented&#xA;&lt;strong&gt;&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26A.pdf&#34;&gt;Optimising Metamath Proofs for Human Working Memory&lt;/a&gt;&lt;/strong&gt;&#xA;(with &lt;em&gt;Cezary Kaliszyk&lt;/em&gt; and &lt;em&gt;Christine Rizkallah&lt;/em&gt;) in the&#xA;&lt;a href=&#34;https://easychair.org/smart-program/CICM2026/2026-09-22.html#talk:324161&#34;&gt;main track&lt;/a&gt;&#xA;on September 22, on reordering proof steps to reduce the working-memory&#xA;demand on human readers.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>🗣️ Two talks at AITP 2026</title>
-				<link>https://deeper4ai.github.io/news/aitp-2026-talks/</link>
-				<pubDate>Tue, 01 Sep 2026 10:00:00 +0200</pubDate>
-				<guid>https://deeper4ai.github.io/news/aitp-2026-talks/</guid>
-				<description>&lt;p&gt;Two members of our team gave talks at &lt;a href=&#34;https://aitp-conference.org/2026/&#34;&gt;AITP 2026&lt;/a&gt;&#xA;(Conference on Artificial Intelligence and Theorem Proving) on September 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Jan Jakubův&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://deeper4ai.github.io/papers/cicm26B.pdf&#34;&gt;Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL&lt;/a&gt;&lt;/strong&gt;,&#xA;on higher-order extensions of ENIGMA and Deepire evaluated on a large Isabelle/HOL corpus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Keneni W. Tesema&lt;/em&gt; presented &lt;strong&gt;&lt;a href=&#34;https://aitp-conference.org/2026/abstract/AITP_2026_paper_13.pdf&#34;&gt;Premise Selection for Higher-Order ATP Problems&lt;/a&gt;&lt;/strong&gt;,&#xA;on selecting relevant premises for higher-order automated theorem proving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
